@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PremierProjet</string>
+    <string name="titre">Ma première application</string>
+    <string name="hello_world">Hello world of Farida !</string>
+    <string name="title_bouton_ok">Clic the button and see !</string>
+    <string name="mess_after_clic_ok">Ey ! You just clic in OK button !</string>
+</resources>
