@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimerProyecto</string>
+    <string name="titre">mi primera aplicacion</string>
+    <string name="hello_world">¡Hola mundo Farida!</string>
+    <string name="title_bouton_ok">Pulsa y verás</string>
+    <string name="mess_after_clic_ok">¡Ey! ¡Acabas de hacer clic en un botón!</string>
+</resources>
